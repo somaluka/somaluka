@@ -1,0 +1,30 @@
+.elementor-3352 .elementor-element.elementor-element-fa95064{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;}.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-3352 .elementor-element.elementor-element-1b3b74e > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-3352 .elementor-element.elementor-element-1b3b74e.elementor-element{--align-self:flex-start;}.elementor-3352 .elementor-element.elementor-element-1b3b74e .elementor-heading-title{color:var( --e-global-color-secondary );font-family:"Polin", Sans-serif;font-size:2vw;font-weight:800;}.elementor-3352 .elementor-element.elementor-element-372a014{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--background-transition:0.3s;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:5vw;--padding-bottom:5vw;--padding-left:5vw;--padding-right:5vw;}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-3352 .elementor-element.elementor-element-2a03200{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-3352 .elementor-element.elementor-element-1b3b74e .elementor-heading-title{font-size:20px;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}.elementor-3352 .elementor-element.elementor-element-2a03200{font-size:var( --e-global-typography-accent-font-size );}}@media(max-width:767px){.elementor-3352 .elementor-element.elementor-element-fa95064{--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-3352 .elementor-element.elementor-element-fa95064.e-con{--align-self:center;}.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-3352 .elementor-element.elementor-element-1b3b74e > .elementor-widget-container{margin:0vw 0vw 0vw 0vw;padding:0vw 0vw 0vw 0vw;}.elementor-3352 .elementor-element.elementor-element-1b3b74e.elementor-element{--align-self:center;}.elementor-3352 .elementor-element.elementor-element-1b3b74e{text-align:center;}.elementor-3352 .elementor-element.elementor-element-1b3b74e .elementor-heading-title{font-size:24px;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}.elementor-3352 .elementor-element.elementor-element-2a03200{font-size:var( --e-global-typography-accent-font-size );}}/* Start custom CSS for heading, class: .elementor-element-1b3b74e */.elementor-3352 .elementor-element.elementor-element-1b3b74e {
+    background: #F56523;
+    padding: 6px;
+    border-radius: 8px
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Polin';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2024/07/Polin-Bold.woff2') format('woff2'),
+		url('../../2024/07/Polin-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Polin';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/07/Polin-Regular.woff2') format('woff2'),
+		url('../../2024/07/Polin-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Polin';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2024/07/Polin-Hairline-1.woff2') format('woff2'),
+		url('../../2024/07/Polin-Hairline.woff') format('woff');
+}
+/* End Custom Fonts CSS */
